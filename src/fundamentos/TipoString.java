@@ -33,7 +33,7 @@ public class TipoString {
 			System.out.println(frase);
 			
 			System.out.printf("O Mr. %s %s tem %d anos e ganha R$%.2f.", 
-								nome, sobrenome, idade, salario);
+								nome, sobrenome, idade, salario); 
 			
 			System.out.println("Um dev aleatorio".contains("aleatorio"));
 			System.out.println("Um dev aleatorio".indexOf("dev"));
