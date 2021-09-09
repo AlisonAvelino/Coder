@@ -29,7 +29,6 @@ public class SwitchSemBreak {
 		case 0: 
 			System.out.println("Sabe chorar.");
 		
-
 		}
 	}
 }
