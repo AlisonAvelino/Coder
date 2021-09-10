@@ -1,5 +1,11 @@
 package classe;
 
+/**
+ * 
+ * @author AlisonAvelino
+ *
+ */
+
 public class ValorVsReferencia {
 
 	public static void main(String[] args) {

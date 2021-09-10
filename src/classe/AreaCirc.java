@@ -1,5 +1,11 @@
 package classe;
 
+/**
+ * 
+ * @author AlisonAvelino
+ *
+ */
+
 public class AreaCirc {
 	
 	double raio;

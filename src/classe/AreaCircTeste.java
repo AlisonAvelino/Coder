@@ -1,5 +1,11 @@
 package classe;
 
+/**
+ * 
+ * @author AlisonAvelino
+ *
+ */
+
 public class AreaCircTeste {
 	
 	public static void main(String[] args) {
