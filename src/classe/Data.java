@@ -1,5 +1,11 @@
 package classe;
 
+/**
+ * 
+ * @author AlisonAvelino
+ *
+ */
+
 public class Data {
 	int dia;
 	int mes;
@@ -9,6 +15,7 @@ public class Data {
 		dia = 1;
 		mes = 1;
 		ano = 1970;
+		//this(1,1,1970)
 	}
 	
 	Data(int dia, int mes, int ano) {
@@ -18,7 +25,8 @@ public class Data {
 	}
 	
 	String obterDataFormatada() {
-		return String.format("%d/%d/%d", dia, mes, ano);
+		String formato = "%d/%d/%d";
+		return String.format(formato, dia, mes, ano);
 		
 	}
 
