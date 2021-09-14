@@ -10,6 +10,10 @@ import java.util.Queue;
  */
 
 public class Fila {
+	/*Queue:
+	  -Implementa fila;
+	  -First In / First Out (FIFO)
+	 */
 	
 	public static void main(String[] args) {
 		
