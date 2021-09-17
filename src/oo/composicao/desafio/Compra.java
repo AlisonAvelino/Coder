@@ -1,4 +1,4 @@
-package oo.composicao.desafios;
+package oo.composicao.desafio;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +22,7 @@ public class Compra {
 		this.itens.add(new Item(produto, qtde));
 	}
 	
-	 double obterValorTotal() {
+	 double obterValorCompra() {
 		 double total = 0;
 		 
 		  for(Item item: itens) {

@@ -1,4 +1,4 @@
-package oo.composicao.desafios;
+package oo.composicao.desafio;
 
 /**
  * 
@@ -23,7 +23,8 @@ public class Sistema {
 		cliente.adicionarCompra(compra1);
 		cliente.adicionarCompra(compra2);
 		
-		System.out.println(cliente.obterValorTotal());
+		System.out.printf("Cliente: %s \n", cliente.nome);
+		System.out.printf("Total: R$ %.2f.\n", cliente.obterValorTotal());
 	}
 	
 }
