@@ -1,4 +1,4 @@
-package oo.composicao.desafios;
+package oo.composicao.desafio;
 
 /**
  * 

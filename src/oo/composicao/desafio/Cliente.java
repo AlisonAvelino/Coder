@@ -1,4 +1,4 @@
-package oo.composicao.desafios;
+package oo.composicao.desafio;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,7 +26,7 @@ public class Cliente {
 		double total = 0;
 		
 		for(Compra compra: compras) {
-			total += compra.obterValorTotal();
+			total += compra.obterValorCompra();
 		}
 		
 		return total;
