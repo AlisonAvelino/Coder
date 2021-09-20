@@ -11,7 +11,7 @@ import oo.encapsulamento.casaA.Ana;
 public class Julia {
 
 	/*Como não há uma ligação de hererança e package entre Julia e Ana 
-	  se faz necessário uma instancia para acesso aos atributos(public) da classe.*/
+	  se faz necessário uma instancia para acesso aos atributos (public) da instancia.*/
 	
 	Ana sogra = new Ana();
 	

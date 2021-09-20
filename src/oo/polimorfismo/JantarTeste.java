@@ -6,7 +6,7 @@ package oo.polimorfismo;
  *
  */
 
-public class Jantar {
+public class JantarTeste {
 
 	public static void main(String[] args) {
 		Pessoa convidado = new Pessoa(75.3);
