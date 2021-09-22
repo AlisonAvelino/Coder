@@ -18,6 +18,12 @@ public class Produto extends Object{
 		this.preco = preco;
 		this.desconto = desconto;
 	}
+
+	@Override
+	public String toString() {
+		return nome + " tem o preço de R$ " + preco;
+	}
+	
 	
 
 	
