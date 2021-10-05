@@ -1,9 +1,10 @@
-
+/controle/
 /excecao/
 /fundamentos/
 /generics/
 /jdbc/
 /lambdas/
 /oo/
+/padroes/
 /streams/
-/conexao.properties
+/swing/
